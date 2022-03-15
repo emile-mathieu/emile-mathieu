@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emile-mathieu, welcome to my github page !
+- 👋 Hi, welcome to my github page !
 - 👀 I’m interested in front-end and back-end software engineering.
 - 🌱 I’m currently majoring in Computer Science.
 - 🧑‍💻 I’m looking to collaborate on react, java and mySql projects.
