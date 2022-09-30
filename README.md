@@ -4,11 +4,11 @@ Hi 👋 My name is Emile Mathieu
 Computer Science Student 
 ------------------------  
 
-I’m currently a CS major in University interested in front-back-end development. I have proficient knowledge in Java, Python. Feel free to view my projects ! 
+I’m currently a CS major in University interested in full stack development. I have proficient knowledge in Javascript Java and Python . Feel free to view my projects ! 
 
 * 🌍  I'm based in the UK 
-* 🧠  I'm learning JAVA, I will be learning ReactJS & Sql soon ! 
-* 🤝  I'm open to collaborating on any basic or intermediate projects.
+* 🧠  I'm currently learning ReactJS's library, Swift IOS, SQL and advance topics of Java such as (Computer Networks & Junit). 
+* 🤝  I'm open to collaborating on any intermediate type of projects.
 
 ### Skills
 
