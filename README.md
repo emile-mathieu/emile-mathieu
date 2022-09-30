@@ -1,7 +1,7 @@
 Hi 👋 My name is Emile Mathieu
 ==============================  
 
-Computer Science Student 
+Welcome to my Profile !
 ------------------------  
 
 I’m currently a CS major in University interested in full stack development. I have proficient knowledge in Javascript Java and Python . Feel free to view my projects ! 
