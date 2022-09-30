@@ -4,7 +4,7 @@ Hi 👋 My name is Emile Mathieu
 Welcome to my Profile !
 ------------------------  
 
-I’m currently a CS major in University interested in full stack development. I have proficient knowledge in Javascript Java and Python . Feel free to view my projects ! 
+I’m currently a CS major in University interested in full stack development. I have proficient knowledge in Javascript, Java and Python. Feel free to view my projects ! 
 
 * 🌍  I'm based in the UK 
 * 🧠  I'm currently learning Javascript with ReactJS's library, Swift IOS, SQL and advance topics of Java such as (Computer Networks & Junit). 
