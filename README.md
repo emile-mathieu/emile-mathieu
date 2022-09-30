@@ -19,10 +19,3 @@ I’m currently a CS major in University interested in full stack development. I
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/emile-mathieu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/emile-mathieu"><img src="https://github-readme-stats.vercel.app/api?username=emile-mathieu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emile-mathieu's GitHub stats" /></a>
-<a href="https://github.com/emile-mathieu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emile-mathieu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
