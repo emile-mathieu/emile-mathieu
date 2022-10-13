@@ -8,7 +8,7 @@ I’m currently a CS major in University interested in full stack development. I
 
 * 🌍  I'm based in the UK 
 * 🧠  I'm currently learning Javascript with ReactJS's library, Swift IOS, SQL and advance topics of Java such as (Computer Networks & Junit). 
-* 🤝  I'm open to collaborating on any intermediate type of projects.
+* 🤝  I'm open to collaborating on any intermediate type of project.
 
 ### Skills
 
